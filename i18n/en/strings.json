@@ -299,6 +299,7 @@
   "editor.publish.deploy_plan.added": "Added",
   "editor.publish.deploy_plan.modified": "Modified",
   "editor.publish.deploy_plan.build_commands": "Build commands",
+  "editor.publish.deploy_plan.run_command": "Run command",
   "editor.publish.deploy_plan.compile_archive": "[Deploy] Archive compiled bundle from",
   "editor.publish.deploy_plan.publish_target": "[Deploy] publish to target",
   "editor.publish.deploy_plan.commit_mesh": "[CDN] Commit new version to service mesh",

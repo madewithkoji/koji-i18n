@@ -1,1 +1,36 @@
-{}
+{
+  "header.search_placeholder": "Rechercher apps et jeux...",
+  "header.create_app": "Créer app",
+  "header.sign_in": "Se connecter",
+
+  "nav.home": "Accueil",
+  "nav.new": "Nouveaux",
+  "nav.trending": "Célèbre",
+  "nav.random": "Surprise",
+  "nav.my_projects": "Mes projets",
+  "nav.my_profile": "Mon profil",
+  "nav.blog": "Koji blog",
+  "nav.discord": "Discord",
+  "nav.help": "Aide",
+  "nav.settings": "Paramètres",
+
+  "footer.about": "À propos",
+  "footer.terms": "Conditions générales",
+  "footer.privacy": "Confidentialité",
+  "footer.status": "Condition",
+  "footer.more": "Plus",
+
+  "pagination.view_more": "Voir plus",
+  "pagination.next_page": "Page suivante",
+  "pagination.previous_page": "Page précédente",
+
+  "player.views": "vues",
+  "player.share": "Partager",
+  "player.remix": "Remixer",
+  "player.remixing": "Remixage...",
+  "player.remix_disabled": "Remix désactivé",
+  "player.related_apps": "Apps connexes",
+  "player.random_app": "App surprise",
+  "player.last_updated": "Dernière mise",
+  "player.comments": "Commentaires"
+}
