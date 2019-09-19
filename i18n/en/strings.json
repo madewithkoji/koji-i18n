@@ -4,7 +4,6 @@
   "header.sign_in": "Sign in",
   "header.account_settings": "Account settings",
   "header.log_out": "Log out",
-
   "nav.home": "Home",
   "nav.new": "New",
   "nav.trending": "Trending",
@@ -15,17 +14,14 @@
   "nav.discord": "Discord",
   "nav.help": "Help",
   "nav.settings": "Settings",
-
   "footer.about": "About",
   "footer.terms": "Terms",
   "footer.privacy": "Privacy",
   "footer.status": "Status",
   "footer.more": "More",
-
   "pagination.view_more": "View more",
   "pagination.next_page": "Next page",
   "pagination.previous_page": "Previous page",
-
   "player.views": "views",
   "player.share": "Share",
   "player.remix": "Remix",
@@ -48,7 +44,6 @@
   "player.share.show_attribution": "Show attribution",
   "player.share.back": "Back",
   "player.render_errors": "This app may have errors or other issues preventing it from loading.",
-
   "projects.my_projects": "My projects",
   "projects.no_projects": "You don't have any projects. Create a new project by remixing any app.",
   "projects.name": "Name",
@@ -66,10 +61,8 @@
   "projects.rename": "Rename",
   "projects.delete_confirm": "Are you sure you want to delete?",
   "projects.delete_confirm_action": "Yes, delete",
-
   "collaboration_request.sending": "Sending request...",
   "collaboration_request.waiting": "Waiting for response...",
-
   "login.loading": "Loading...",
   "login.choose_username": "Choose a username",
   "login.create_account": "Create account",
@@ -79,9 +72,7 @@
   "login.create_account_to_comment": "Create an account to comment on",
   "login.create_account_to_like": "Create an account to like",
   "login.create_account_to_remix": "Create an account to remix",
-
   "search.info_box": "## Looking for a place to start?\n\nAll apps on Koji are created by remixing other apps. Visit the [Create Page](https://withkoji.com/create) to find some inspiration.\n\nIf you're a developer, find scaffolds and \"blank\" apps from the [advanced creation page](https://withkoji.com/create/advanced).",
-
   "editor.loading_app": "Loading app",
   "editor.loading_editor": "Loading editor",
   "editor.loading_error": "Error loading project",
@@ -98,7 +89,6 @@
   "editor.loading_toast": "The Koji community is active on Discord! Click here and join now to share ideas and connect with other developers *(opens in new tab)*.",
   "editor.nav.help": "Help",
   "editor.nav.collaborate": "Collaborate",
-
   "editor.preview.live_preview": "Live preview",
   "editor.preview.remote_preview": "Remote",
   "editor.preview.routes": "Routes",
@@ -130,9 +120,7 @@
   "editor.preview.response_start": "Starting request...",
   "editor.preview.response_finished": "Request finished in",
   "editor.preview.response_status_code": "Status code",
-
   "editor.terminal.new_tab": "New tab",
-
   "editor.nav.back_to_projects": "Back to projects",
   "editor.nav.project": "Project",
   "editor.nav.overview": "Overview",
@@ -155,7 +143,6 @@
   "editor.nav.settings.repository": "Repository",
   "editor.nav.new_file": "New file",
   "editor.nav.upload_file": "Upload...",
-
   "editor.path": "Path",
   "editor.file_exists_at_path": "A file at that path already exists",
   "editor.create_file": "Create file",
@@ -168,14 +155,12 @@
   "editor.upload_file.or": "or",
   "editor.upload_file.new_file_path": "New file path (including file name)",
   "editor.upload_file.uploading": "Uploading...",
-
   "editor.open_files.visual": "visual",
   "editor.open_files.code": "code",
   "editor.open_files.close_without_saving": "Do you want to save the changes you made to",
   "editor.open_files.cancel": "Cancel",
   "editor.open_files.do_not_save": "No, don't save",
   "editor.open_files.save": "Yes, save",
-
   "editor.collaboration.modal_title": "Create collaboration link",
   "editor.collaboration.modal_header": "Use the link below to share your Koji editor session with other people.",
   "editor.collaboration.modal_body": "## How it works\n\nWhen someone clicks the link, you will see a popup with their profile and be able to grant access or deny the request.\n\nYou aree in control of what people see. They will only be able to see and edit the file that you have open.\n\nThis link will allow people to request access to your project for the next 15 minutes.",
@@ -188,14 +173,11 @@
   "editor.collaboration.collaborator": "Collaborator",
   "editor.collaboration.user_detail": "User detail",
   "editor.collaboration.end_session": "End session",
-
   "editor.alerts.publishing_app": "Publishing your app...",
   "editor.alerts.publishing_app_logs": "See build logs in Tools → Version",
   "editor.alerts.git_error": "Git error",
-
   "editor.vcc.change": "Change",
   "editor.vcc.save": "Save",
-
   "editor.vcc.image.remove_background": "Remove background",
   "editor.vcc.image.removing_background": "Removing...",
   "editor.vcc.image.remove_background_revert": "Revert to original",
@@ -207,7 +189,6 @@
   "editor.vcc.image.upload": "Upload",
   "editor.vcc.image.advanced": "Advanced",
   "editor.vcc.image.change_image": "Change image",
-
   "editor.vcc.secret.choose_key_for": "Choose a key for",
   "editor.vcc.secret.secure_tagline": "Secured by Koji Keystore",
   "editor.vcc.secret.usage_description": "Why does this app need this key?",
@@ -223,7 +204,6 @@
   "editor.vcc.secret.deauthorizing": "Deauthorizing...",
   "editor.vcc.secret.key_value": "Key value",
   "editor.vcc.secret.choose_key_description": "The key to use for this field",
-
   "editor.vcc.sound.change_sound": "Change sound",
   "editor.vcc.sound.loading": "Loading",
   "editor.vcc.sound.uploading": "Uploading",
@@ -235,7 +215,6 @@
   "editor.vcc.sound.fetching_audio": "Fetching audio",
   "editor.vcc.sound.fetching_audio_time": "This can take up to a minute",
   "editor.vcc.sound.paste_youtube": "Tip: Paste a YouTube URL to extract its audio. You can trim it on the next screen to create the perfect clip.",
-
   "editor.code.changed_on_disk": "has changed on the disk. Do you want to reload?",
   "editor.code.cancel": "Cancel",
   "editor.code.reload": "Yes, reload",
@@ -262,10 +241,8 @@
   "editor.live_preview_settings.hard_reset": "Hard reset project (5 minutes)",
   "editor.live_preview_settings.hard_reset_confirm": "Are you sure you want to hard reset your project?",
   "editor.live_preview_settings.hard_reset_confirm_button": "Punch it, Chewie",
-
   "editor.project_overview": "Project overview",
   "editor.project_overview_description": "## **Welcome to your project**\n\nIf you haven't yet, check out the [Getting Started with Koji tutorial](http://bit.ly/StartWithKoji).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xMPvUkkcpac\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThere are always people around in our [Discord (live chat)](https://discordapp.com/invite/eQuMJF6) that are happy to help.",
-
   "editor.publish.publish_your_app": "Publish your app",
   "editor.publish.learn_more_about_publishing": "Learn more about publishing",
   "editor.publish.see_deploy_plan": "See deploy plan (advanced)",
@@ -288,7 +265,6 @@
   "editor.publish.publishing": "Publishing...",
   "editor.publish.loading": "Loading...",
   "editor.publish.working_behind_master": "Your working copy is behind remote. You must merge in from remote before publishing with this tool.",
-
   "editor.publish.deploy_plan.next_version": "The next version will be version number",
   "editor.publish.deploy_plan.files_changed": "Files changed since last deploy",
   "editor.publish.deploy_plan.status": "Status",
@@ -304,13 +280,11 @@
   "editor.publish.deploy_plan.publish_target": "[Deploy] publish to target",
   "editor.publish.deploy_plan.commit_mesh": "[CDN] Commit new version to service mesh",
   "editor.publish.deploy_plan.invalidate_domains": "[CDN] Invalidate domans for service",
-
   "editor.activity.activity_log": "Activity log",
   "editor.activity.commit":  "Commit",
   "editor.activity.commit_id": "Commit ID",
   "editor.activity.no_commits": "This project does not yet have any commits.",
   "editor.activity.pushed_to": "pushed to",
-
   "editor.repository.git_status": "Git status",
   "editor.repository.loading": "Loading...",
   "editor.repository.current_branch": "Current branch",
@@ -328,13 +302,11 @@
   "editor.repository.upstream_repository_description": "The location of the upstream Git repository for this project. This is the repository from which this project was cloned.",
   "editor.repository.koji_stubs": "Koji stubs",
   "editor.repository.koji_stubs_description": "The Koji stubs used in the initial setup of this project.",
-
   "editor.analytics.analytics": "Analytics",
   "editor.analytics.no_data_yet": "No data yet",
   "editor.analytics.top_referrers": "Top referrers",
   "editor.analytics.unique_visitors": "Unique visitors",
   "editor.analytics.top_locations": "Top locations",
-
   "editor.database.using_custom_view": "Using custom view defined in",
   "editor.database.custom_view_available": "Custom view available from",
   "editor.database.show_raw_data": "Show raw data",
@@ -347,7 +319,6 @@
   "editor.database.database_overview": "# Koji Database\n\nThe Koji Database provides an easy to use Key-Value store for your projects.\n\nInstall the `@withkoji/database` package into your project's backend:\n\n```\nnpm install --save @withkoji/database\n```\n\nBring it into your route:\n```\nimport Database from '@withkoji/database'\n\n\nconst database = new Database();\n```\n\nSee available methods at https://github.com/madewithkoji/koji-database-sdk/blob/master/src/adapter/DatabaseAdapter.ts\n\nMore documentation coming soon!",
   "editor.database.database": "Database",
   "editor.database.overview": "Overview",
-
   "editor.domains.close": "Close",
   "editor.domains.record": "Record",
   "editor.domains.type": "Type",
@@ -375,7 +346,7 @@
   "editor.domains.subject_name": "Subject name",
   "editor.domains.issuer_name": "Issuer name",
   "editor.domains.date_issued": "Date issued",
-  "editor.domains.date_expires": "Date expries",
+  "editor.domains.date_expires": "Date expires",
   "editor.domains.serial_number": "Serial number",
   "editor.domains.fingerprint": "Fingerprint",
   "editor.domains.delete_domain": "Delete domain",
@@ -391,7 +362,6 @@
   "editor.domains.verifying": "Verifying",
   "editor.domains.waiting": "Waiting",
   "editor.domains.manage_domain": "Manage domain",
-
   "editor.plugins.plugins": "Plugins",
   "editor.plugins.plugins_overview": "With plugins, you can add code snippets to your app after it has been built, letting you do things like serve metadata and enable third-party services like analytics. \n\n#### Here is a [video tutorial](https://youtu.be/sANeQFUwD_0) on how to enable plugins for your project",
   "editor.plugins.deactivate": "Deactivate plugin",
@@ -407,7 +377,6 @@
   "editor.plugins.no_recommended": "No recommended plugins",
   "editor.plugins.all": "All plugins",
   "editor.plugins.no_available": "No available plugins",
-
   "editor.scheduled_jobs.scheduled_jobs": "Scheduled jobs",
   "editor.scheduled_jobs.overview": "Use scheduled jobs to automatically invoke endpoints in your apps.",
   "editor.scheduled_jobs.add_job": "Add job",
@@ -435,7 +404,6 @@
   "editor.scheduled_jobs.delete_confirm_button": "Yes, delete",
   "editor.scheduled_jobs.add": "Add",
   "editor.scheduled_jobs.save": "Save",
-
   "editor.versions.version": "Version",
   "editor.versions.versions": "Versions",
   "editor.versions.overview": "New versions of your app are automatically built and deployed when you publish a new version from the Koji editor or push to master on your project's remote repository.",
