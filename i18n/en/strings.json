@@ -381,7 +381,6 @@
   "editor.scheduled_jobs.overview": "Use scheduled jobs to automatically invoke endpoints in your apps.",
   "editor.scheduled_jobs.add_job": "Add job",
   "editor.scheduled_jobs.edit_job": "Edit job",
-  "editor.scheduled_jobs.scheduled_jobs_overview": "",
   "editor.scheduled_jobs.enabled": "Enabled",
   "editor.scheduled_jobs.name": "Name",
   "editor.scheduled_jobs.no_jobs": "This service does not have any scheduled jobs",
