@@ -1,3 +1,5 @@
+# Copyright dispute policy
+
 Effective date: 04/16/2019
 
 In accordance with the DMCA, we’ve adopted the policy below toward copyright infringement. We reserve the right to (1) block access to or remove material that we believe in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users and (2) remove and discontinue service to repeat offenders. 
