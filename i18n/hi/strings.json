@@ -242,7 +242,7 @@
   "editor.live_preview_settings.hard_reset_confirm": "क्या आप निश्चित हैं कि आप अपने प्रोजेक्ट को रीसेट करना चाहते हैं?",
   "editor.live_preview_settings.hard_reset_confirm_button": "] इसे पंच करें, Chewie",
   "editor.project_overview": "प्रोजेक्ट ओवरव्यू",
-  "editor.project_overview_description": "## ** अपने प्रोजेक्ट में आपका स्वागत है **\n\nयदि आपने अभी तक नहीं देखा है, तो [Koji ट्यूटोरियल [Koji](http://bit.ly/StartWith) के साथ शुरुआत] देखें।\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xMPvUkkcpac\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen> </iframe>\n\nहमारे [Discord (लाइव चैट)](https://discordapp.com/invite/eQuMJF6) पर हमेशा ऐसे लोग होते हैं जो मदद करने में प्रसन्न होते हैं।",
+  "editor.project_overview_description": "## ** अपने प्रोजेक्ट में आपका स्वागत है **\n\nयदि आपने अभी तक नहीं देखा है, तो [Koji ट्यूटोरियल के साथ शुरुआत](http://bit.ly/StartWithKoji) देखें।\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xMPvUkkcpac\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen> </iframe>\n\nहमारे [Discord (लाइव चैट)](https://discordapp.com/invite/eQuMJF6) पर हमेशा ऐसे लोग होते हैं जो मदद करने में प्रसन्न होते हैं।",
   "editor.publish.publish_your_app": "अपना ऐप प्रकाशित करें",
   "editor.publish.learn_more_about_publishing": "प्रकाशन के बारे में और जानें",
   "editor.publish.see_deploy_plan": "डिप्लॉय योजना देखें (एडवांस्ड)",
