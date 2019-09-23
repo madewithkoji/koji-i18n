@@ -415,6 +415,7 @@
   "editor.versions.minutes": "minutes",
   "editor.versions.from_commit": "from commit",
   "editor.versions.download_logs": "Download as text file",
+  "editor.vcc.google_poly": "Google Poly",
   "editor.vcc.obj.change_object": "Change object",
   "editor.vcc.obj.importing_asset": "Importing asset",
   "editor.vcc.obj.import_object": "Import object",
