@@ -414,5 +414,13 @@
   "editor.versions.completed in": "completed in",
   "editor.versions.minutes": "minutes",
   "editor.versions.from_commit": "from commit",
-  "editor.versions.download_logs": "Download as text file"
+  "editor.versions.download_logs": "Download as text file",
+  "editor.vcc.obj.change_object": "Change object",
+  "editor.vcc.obj.importing_asset": "Importing asset",
+  "editor.vcc.obj.import_object": "Import object",
+  "player.attributes.app_attributes": "App attributes",
+  "player.attributes.attribute": "Attribute",
+  "player.attributes.value": "Value",
+  "player.attributes.creator_only": "Creator only",
+  "player.attributes.description": "When you deploy an app, the Koji Profiler crawls it to better understand its performance, resource usage, and localization. This data is then used to help surface your app to its most relevant users. You can only see attributes for apps that you have created."
 }
