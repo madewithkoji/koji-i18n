@@ -179,7 +179,7 @@
   "editor.vcc.change": "Change",
   "editor.vcc.save": "Save",
   "editor.vcc.image.remove_background": "Remove background",
-  "editor.vcc.image.removing_background": "Removing...",
+  "editor.vcc.image.removing_background": "Removing",
   "editor.vcc.image.remove_background_revert": "Revert to original",
   "editor.vcc.image.save_image": "Save image",
   "editor.vcc.image.saving_image": "Saving...",
