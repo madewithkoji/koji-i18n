@@ -5,8 +5,9 @@
   "header.account_settings": "Account settings",
   "header.log_out": "Log out",
   "nav.home": "Home",
-  "nav.new": "New",
+  "nav.new": "Recent",
   "nav.trending": "Trending",
+  "nav.most_remixed": "Most remixed",
   "nav.random": "Random",
   "nav.my_projects": "My projects",
   "nav.my_profile": "My profile",
@@ -423,5 +424,8 @@
   "player.attributes.attribute": "Attribute",
   "player.attributes.value": "Value",
   "player.attributes.creator_only": "Creator only",
-  "player.attributes.description": "When you deploy an app, the Koji Profiler crawls it to better understand its performance, resource usage, and localization. This data is then used to help surface your app to its most relevant users. You can only see attributes for apps that you have created."
+  "player.attributes.description": "When you deploy an app, the Koji Profiler crawls it to better understand its performance, resource usage, and localization. This data is then used to help surface your app to its most relevant users. You can only see attributes for apps that you have created.",
+  "player.remixes": "Remixes",
+  "player.see_all_remixes": "See all remixes",
+  "player.remixes_of": "Remixes of"
 }
