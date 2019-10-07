@@ -414,5 +414,18 @@
   "editor.versions.completed in": "terminé dans",
   "editor.versions.minutes": "minutes",
   "editor.versions.from_commit": "de la livraison",
-  "editor.versions.download_logs": "Télécharger comme fichier texte"
+  "editor.versions.download_logs": "Télécharger comme fichier texte",
+  "nav.most_remixed": "Le plus remixé",
+  "editor.vcc.google_poly": "Google Poly",
+  "editor.vcc.obj.change_object": "Changer d'objet",
+  "editor.vcc.obj.importing_asset": "Importation d'un actif",
+  "editor.vcc.obj.import_object": "Importer l'objet",
+  "player.attributes.app_attributes": "Attributs de l'application",
+  "player.attributes.attribute": "Attribut",
+  "player.attributes.value": "Valeur",
+  "player.attributes.creator_only": "Créateur uniquement",
+  "player.attributes.description": "Lorsque vous déployez une application, le profileur Koji l'explore pour mieux comprendre ses performances, l'utilisation de ses ressources et sa localisation. Ces données sont ensuite utilisées pour aider à présenter votre application aux utilisateurs les plus pertinents. Vous ne pouvez voir que les attributs des applications que vous avez créées.",
+  "player.remixes": "Remix",
+  "player.see_all_remixes": "Voir tous les remix",
+  "player.remixes_of": "Remix de"
 }

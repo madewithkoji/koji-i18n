@@ -414,5 +414,18 @@
   "editor.versions.completed in": "……后完成",
   "editor.versions.minutes": "分钟",
   "editor.versions.from_commit": "从提交",
-  "editor.versions.download_logs": "下载为文本文件"
+  "editor.versions.download_logs": "下载为文本文件",
+  "nav.most_remixed": "热门混音",
+  "editor.vcc.google_poly": "Google Poly",
+  "editor.vcc.obj.change_object": "改变对象",
+  "editor.vcc.obj.importing_asset": "引入资源",
+  "editor.vcc.obj.import_object": "引入对象",
+  "player.attributes.app_attributes": "应用属性",
+  "player.attributes.attribute": "属性",
+  "player.attributes.value": "值",
+  "player.attributes.creator_only": "仅限创建者",
+  "player.attributes.description": "当您部署一项应用程序时，Koji分析器将会对其进行爬取，以更好地了解其性能、资源调用和本地化状况。随后，这些数据将用来帮助你的应用更好地适应最重要用户的需求。您只能看到您所创建的应用的属性。",
+  "player.remixes": "混音版本",
+  "player.see_all_remixes": "查看所有混音版本",
+  "player.remixes_of": "混音版本"
 }

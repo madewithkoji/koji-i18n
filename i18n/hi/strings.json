@@ -414,5 +414,18 @@
   "editor.versions.completed in": "में पूरा किया",
   "editor.versions.minutes": "मिनट",
   "editor.versions.from_commit": "Git कमिट से",
-  "editor.versions.download_logs": "टेक्स्ट फ़ाइल के रूप में डाउनलोड करें"
+  "editor.versions.download_logs": "टेक्स्ट फ़ाइल के रूप में डाउनलोड करें",
+  "nav.most_remixed": "सबसे अधिक रिमिक्स किए गए",
+  "editor.vcc.google_poly": "Google Poly",
+  "editor.vcc.obj.change_object": "विषयवस्तु बदलें",
+  "editor.vcc.obj.importing_asset": "सामग्रियाँ इम्पोर्ट कर रहे हैं",
+  "editor.vcc.obj.import_object": "विषयवस्तु इम्पोर्ट करें",
+  "player.attributes.app_attributes": "ऐप एट्रिब्यूट",
+  "player.attributes.attribute": "एट्रिब्यूट",
+  "player.attributes.value": "महत्व",
+  "player.attributes.creator_only": "केवल निर्माता",
+  "player.attributes.description": "जब आप किसी ऐप को प्रदर्शित करते हैं तो Koji प्रोफ़ाइलर इसके प्रदर्शन, संसाधन के उपयोग और उचित स्थान पर स्थापित करने हेतु बेहतर ढंग से समझने के लिए इसे धीरे धीरे आगे बढ़ता है। फ़िर इस डेटा का उपयोग आपके ऐप को उसके सबसे उपयुक्त उपयोगकर्ताओं को दिखाने के लिए किया जाता है। आप केवल स्वयं के बनाए गए ऐप के एट्रिब्यूट को देख सकते हैं।",
+  "player.remixes": "रिमिक्स",
+  "player.see_all_remixes": "सारे रिमिक्स देखें",
+  "player.remixes_of": "के रिमिक्स"
 }
