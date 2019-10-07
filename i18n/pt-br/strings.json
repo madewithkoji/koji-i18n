@@ -423,5 +423,9 @@
   "player.attributes.attribute": "Atributo",
   "player.attributes.value": "Valor",
   "player.attributes.creator_only": "Apenas o criador",
-  "player.attributes.description": "Quando você realiza um deploy, o Koji Profiler o analisa para entender melhor sua performance, uso de recursos e localização. Esses dados são usados para indicar seu aplicativo para os usuários mais relevante. Você só pode ver atributos para os aplicativos que você criou."
+  "player.attributes.description": "Quando você realiza um deploy, o Koji Profiler o analisa para entender melhor sua performance, uso de recursos e localização. Esses dados são usados para indicar seu aplicativo para os usuários mais relevante. Você só pode ver atributos para os aplicativos que você criou.",
+  "nav.most_remixed": "Mais remixados",
+  "player.remixes": "Remixados",
+  "player.see_all_remixes": "Visualizar todos remixados",
+  "player.remixes_of": "Remixados de"
 }
