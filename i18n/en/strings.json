@@ -427,5 +427,7 @@
   "player.attributes.description": "When you deploy an app, the Koji Profiler crawls it to better understand its performance, resource usage, and localization. This data is then used to help surface your app to its most relevant users. You can only see attributes for apps that you have created.",
   "player.remixes": "Remixes",
   "player.see_all_remixes": "See all remixes",
-  "player.remixes_of": "Remixes of"
+  "player.remixes_of": "Remixes of",
+  "player.attribute_bars.vcc": "This app is a Visual Customization Control (VCC) designed to be used inside Koji templates. [Click here to learn more about VCCs](/developer)",
+  "player.attribtue_bars.type_signature": "Type signature"
 }
