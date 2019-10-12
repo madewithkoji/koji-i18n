@@ -431,5 +431,6 @@
   "player.attribute_bars.vcc": "This app is a Visual Customization Control (VCC) designed to be used inside Koji templates. [Click here to learn more about VCCs](/developer)",
   "player.attribtue_bars.type_signature": "Type signature",
   "player.vcc_consumers": "Apps using this VCC",
-  "player.see_all_vcc_consumers": "See all VCCs"
+  "player.see_all_vcc_consumers": "See all VCCs",
+  "nav.developer": "Developer"
 }
