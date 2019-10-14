@@ -432,5 +432,6 @@
   "player.attribtue_bars.type_signature": "Type signature",
   "player.vcc_consumers": "Apps using this VCC",
   "player.see_all_vcc_consumers": "See all VCCs",
-  "nav.developer": "Developer"
+  "nav.developer": "Developer",
+  "editor.vcc.file.change_file": "Change file"
 }
