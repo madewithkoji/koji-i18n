@@ -433,5 +433,8 @@
   "player.vcc_consumers": "Apps using this VCC",
   "player.see_all_vcc_consumers": "See all VCCs",
   "nav.developer": "Developer",
-  "editor.vcc.file.change_file": "Change file"
+  "editor.vcc.file.change_file": "Change file",
+  "editor.vcc.sound.record": "Record",
+  "editor.vcc.sound.start_recording": "Start recording",
+  "editor.vcc.sound.stop_recording": "Stop recording"
 }
