@@ -468,6 +468,7 @@
   "payments.balance": "Balance",
   "payments.available_to_spend": "Available to spend",
   "payments.available_to_withdraw": "Available to withdraw",
+  "payments.available_to_withdraw_details": "Your balance available for withdrawl consists of payments you have received from other Koji users. Balance top-ups from credit cards or gift cards are not available for withdrawl. You must be enrolled in the Koji Partner Program to transfer funds to your debit card or bank account.",
   "payments.transaction_history": "Transaction history",
   "payments.date": "Date",
   "payments.memo": "Memo",
