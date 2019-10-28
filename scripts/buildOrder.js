@@ -1,16 +1,29 @@
 const object = require(`../i18n/${process.argv[2]}/strings.json`);
 const baseObject = require('../i18n/en/strings.json');
 
+const excludeTokens = [
+  'Koji',
+  'Discord',
+  'penny',
+  'pennies',
+  'Stripe',
+  'DNS',
+  'Google Poly',
+  'HTTPS',
+  'Git',
+  'CDN',
+  'YouTube',
+  'VCCs',
+  'VCC',
+];
+
 const newKeys = Object.keys(baseObject).reduce((acc, cur) => {
   if (!object[cur]) {
-    const baseString = baseObject[cur]
-      .replace(/Koji/g, '[[[Koji]]]')
-      .replace(/Discord/g, '[[[Discord]]]')
-      .replace(/penny/g, '[[[penny]]]')
-      .replace(/pennies/g, '[[[pennies]]]')
-      .replace(/Stripe/g, '[[[Stripe]]]')
-      .replace(/DNS/g, '[[[DNS]]]')
-      .replace(/Google Poly/g, '[[[Google Poly]]]');
+    let baseString = baseObject[cur];
+    excludeTokens.forEach((token) => {
+      const re = new RegExp(token, 'g');
+      baseString = baseString.replace(re, `[[[${token}]]]`);
+    });
     acc.push(`[[[${cur}]]] ${baseString}`);
   }
   return acc;
