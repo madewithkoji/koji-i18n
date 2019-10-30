@@ -491,5 +491,10 @@
   "payments.default": "Default",
   "payments.set_as_default": "Set as default",
   "payments.delete": "Delete",
-  "payments.koji_partner_program": "Koji Partner Program"
+  "payments.koji_partner_program": "Koji Partner Program",
+  "payments.gift_codes": "Gift codes",
+  "payments.gift_code_id": "Code ID",
+  "payments.gift_code_date_created": "Date created",
+  "payments.gift_code_date_redeemed": "Date redeemed",
+  "payments.gift_code_not_redeemed": "Not redeemed"
 }
