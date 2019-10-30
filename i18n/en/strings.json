@@ -496,5 +496,10 @@
   "payments.gift_code_id": "Code ID",
   "payments.gift_code_date_created": "Date created",
   "payments.gift_code_date_redeemed": "Date redeemed",
-  "payments.gift_code_not_redeemed": "Not redeemed"
+  "payments.gift_code_not_redeemed": "Not redeemed",
+  "payments.purchase_gift_code": "Purchase gift code",
+  "payments.redeem_gift_code": "Redeem gift code",
+  "payments.code": "Code",
+  "payments.redeem": "Redeem",
+  "payments.redeeming": "Redeeming"
 }
