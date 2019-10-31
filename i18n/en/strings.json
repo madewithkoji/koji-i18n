@@ -501,5 +501,9 @@
   "payments.redeem_gift_code": "Redeem gift code",
   "payments.code": "Code",
   "payments.redeem": "Redeem",
-  "payments.redeeming": "Redeeming"
+  "payments.redeeming": "Redeeming",
+  "notifications.tip_received": "{{username}} sent you {{amount}} pennies on {{appName}}",
+  "notifications.app_liked": "{{username}} liked {{appName}}",
+  "notifications.comment_posted": "{{username}} posted a comment to {{appName}}: \"{{comment}}\"",
+  "notifications.remix_published": "{{username}} published a remix of {{appName}}"
 }
