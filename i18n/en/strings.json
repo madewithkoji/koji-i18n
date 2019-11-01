@@ -502,8 +502,8 @@
   "payments.code": "Code",
   "payments.redeem": "Redeem",
   "payments.redeeming": "Redeeming",
-  "notifications.tip_received": "{{username}} sent you {{amount}} pennies on {{appName}}",
+  "notifications.tip_received": "{{username}} tipped you {{amount}} pennies for {{appName}}",
   "notifications.app_liked": "{{username}} liked {{appName}}",
   "notifications.comment_posted": "{{username}} posted a comment to {{appName}}: \"{{comment}}\"",
-  "notifications.remix_published": "{{username}} published a remix of {{appName}}"
+  "notifications.remix_published": "{{username}} published a remix of {{appName}}: \"{{remixedAppName}}\""
 }
