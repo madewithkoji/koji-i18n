@@ -244,6 +244,8 @@
   "editor.live_preview_settings.hard_reset_confirm_button": "Punch it, Chewie",
   "editor.project_overview": "Project overview",
   "editor.project_overview_description": "## **Welcome to your project**\n\nIf you haven't yet, check out the [Getting Started with Koji tutorial](http://bit.ly/StartWithKoji).\n\n<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/xMPvUkkcpac\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>\n\nThere are always people around in our [Discord (live chat)](https://discordapp.com/invite/eQuMJF6) that are happy to help.",
+  "editor.quickstart": "Quickstart",
+  "editor.quickstart_empty": "This project does not include a quickstart. Get started customizing by choosing one of the customization sections from the menu.",
   "editor.publish.publish_your_app": "Publish your app",
   "editor.publish.learn_more_about_publishing": "Learn more about publishing",
   "editor.publish.see_deploy_plan": "See deploy plan (advanced)",
