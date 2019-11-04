@@ -125,6 +125,7 @@
   "editor.nav.back_to_projects": "Back to projects",
   "editor.nav.project": "Project",
   "editor.nav.overview": "Overview",
+  "editor.nav.quickstart": "Quickstart",
   "editor.nav.publish_now": "Publish now",
   "editor.nav.open_published_app": "Open published app",
   "editor.nav.open_published_app_disabled": "You must publish your app before you can open it",
