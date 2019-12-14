@@ -73,7 +73,7 @@
   "login.create_account_to_comment": "Sign in to comment on",
   "login.create_account_to_like": "Sign in to like",
   "login.create_account_to_remix": "Sign in to remix",
-  "search.info_box": "## Looking for a place to start?\n\nAll apps on Koji are created by remixing other apps. Visit the [Create Page](https://withkoji.com/create) to find some inspiration.\n\nIf you're a developer, find scaffolds and \"blank\" apps from the [advanced creation page](https://withkoji.com/create/advanced).",
+  "search.info_box": "## Looking for a place to start?\n\nAll apps on Koji are created by remixing other apps. Visit the [Create Page](https://withkoji.com/create) to find some inspiration.\n\nIf you're a developer, find scaffolds, \"blank\" apps, and resources on the [Developer Page](https://withkoji.com/developer).",
   "editor.loading_app": "Loading app",
   "editor.loading_editor": "Loading editor",
   "editor.loading_error": "Error loading project",
