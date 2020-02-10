@@ -32,7 +32,7 @@ Just like YouTube started with people posting low quality videos (that later got
 
 The company has raised $6M to date from a list of prominent investors.
 
-# Our Investors
+## Our Investors
 
 **BITKRAFT**
 Esports Ventures
@@ -118,4 +118,4 @@ Product Hunt
 Director of UX YouTube
 
 **Jono Rosen**\
-Parner, Applied Invention
+Partner, Applied Invention
