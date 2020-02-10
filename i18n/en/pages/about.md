@@ -30,4 +30,92 @@ Koji's apps are modern "Progressive Web Apps" that run on any browser and every 
 
 Just like YouTube started with people posting low quality videos (that later got dramatically better), today, people are creating various trivialities using Koji.  You can see what they are creating here.  We are already seeing these apps get more sophisticated, people learning from each other, a community of developers building, and app template creation accelerating.  Because Koji supports modern day standards (full-stack JavaScript), there are no limitations on the kinds of apps that will be created.
 
-The company has raised $6M to date from a list of prominent investors [GoMeta, Inc.](http://goMeta.io)
+The company has raised $6M to date from a list of prominent investors.
+
+# Our Investors
+
+**BITKRAFT**\
+Esports Ventures
+
+**MTGx**\
+Modern Times Group
+
+**BITKRAFT**\
+Next 10 Ventures
+
+**Exponential Creativity**
+
+**Micahel Eisner**\
+Former CEO of Disney
+
+**Taner Halicioglu**\
+Employee #1 Facebook
+
+**Lic Le Meur**\
+Founder of LeWeb
+
+**Pavni Diwanji**\
+VP Engineering Google
+
+**Mike Jones**\
+Former CEO of MySpace
+
+**Mark Pincus**\
+CEO of Zynga
+
+**Richard Gingras**\
+Head of Google News
+
+**Rachel Lam**\
+Head of Time Warner Cable Investments
+
+**Kelly Perdew**\
+Moonshots Capital
+
+**Gunderson Dettmer**\
+Our law firm
+
+**Alex Bard**\
+CEO of CampaignMonitor
+
+**Scott Kurnit**\
+Founder About.com
+
+**Roderick Chavez**\
+Google, Microsoft
+
+**Jordan Greenhall**\
+Founder DivX
+
+**Art Bilger**\
+CEO Working Nation, Angel in Akamai
+
+**Denise Ho**\
+Product Manager Google
+
+**George Huang**\
+Sr. Engineer Google
+
+**Don Dodge**\
+Developer Advocate Google, Napster
+
+**Michael Carter**\
+Inventor of Websockets
+
+**Nate Koechly**\
+Directory of UX and UX Research YouTube
+
+**Tom Charytoniuk**\
+Product Manager Google, Redfin, Freshly
+
+**Josh Elman**\
+Former Head of Product at Twitter, LinkedIn
+
+**Eric Torgenberg**\
+Product Hunt
+
+**Jonathan Terleski**\
+Director of UX YouTube
+
+**Jono Rosen**\
+Parner, Applied Invention
