@@ -37,85 +37,85 @@ The company has raised $6M to date from a list of prominent investors.
 **BITKRAFT**<br>
 Esports Ventures
 
-**MTGx**\
+**MTGx**<br>
 Modern Times Group
 
-**BITKRAFT**\
+**BITKRAFT**<br>
 Next 10 Ventures
 
 **Exponential Creativity**
 
-**Micahel Eisner**\
+**Micahel Eisner**<br>
 Former CEO of Disney
 
-**Taner Halicioglu**\
+**Taner Halicioglu**<br>
 Employee #1 Facebook
 
-**Lic Le Meur**\
+**Lic Le Meur**<br>
 Founder of LeWeb
 
-**Pavni Diwanji**\
+**Pavni Diwanji**<br>
 VP Engineering Google
 
-**Mike Jones**\
+**Mike Jones**<br>
 Former CEO of MySpace
 
-**Mark Pincus**\
+**Mark Pincus**<br>
 CEO of Zynga
 
-**Richard Gingras**\
+**Richard Gingras**<br>
 Head of Google News
 
-**Rachel Lam**\
+**Rachel Lam**<br>
 Head of Time Warner Cable Investments
 
-**Kelly Perdew**\
+**Kelly Perdew**<br>
 Moonshots Capital
 
-**Gunderson Dettmer**\
+**Gunderson Dettmer**<br>
 Our law firm
 
-**Alex Bard**\
+**Alex Bard**<br>
 CEO of CampaignMonitor
 
-**Scott Kurnit**\
+**Scott Kurnit**<br>
 Founder About.com
 
-**Roderick Chavez**\
+**Roderick Chavez**<br>
 Google, Microsoft
 
-**Jordan Greenhall**\
+**Jordan Greenhall**<br>
 Founder DivX
 
-**Art Bilger**\
+**Art Bilger**<br>
 CEO Working Nation, Angel in Akamai
 
-**Denise Ho**\
+**Denise Ho**<br>
 Product Manager Google
 
-**George Huang**\
+**George Huang**<br>
 Sr. Engineer Google
 
-**Don Dodge**\
+**Don Dodge**<br>
 Developer Advocate Google, Napster
 
-**Michael Carter**\
+**Michael Carter**<br>
 Inventor of Websockets
 
-**Nate Koechly**\
+**Nate Koechly**<br>
 Directory of UX and UX Research YouTube
 
-**Tom Charytoniuk**\
+**Tom Charytoniuk**<br>
 Product Manager Google, Redfin, Freshly
 
-**Josh Elman**\
+**Josh Elman**<br>
 Former Head of Product at Twitter, LinkedIn
 
-**Eric Torgenberg**\
+**Eric Torgenberg**<br>
 Product Hunt
 
-**Jonathan Terleski**\
+**Jonathan Terleski**<br>
 Director of UX YouTube
 
-**Jono Rosen**\
+**Jono Rosen**<br>
 Partner, Applied Invention
