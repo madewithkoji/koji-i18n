@@ -103,7 +103,7 @@ Developer Advocate Google, Napster
 Inventor of Websockets
 
 **Nate Koechly**<br>
-Directory of UX and UX Research YouTube
+Director of UX and UX Research YouTube
 
 **Tom Charytoniuk**<br>
 Product Manager Google, Redfin, Freshly
