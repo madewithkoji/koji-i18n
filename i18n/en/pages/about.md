@@ -34,7 +34,7 @@ The company has raised $6M to date from a list of prominent investors.
 
 ## Our Investors
 
-**BITKRAFT**
+**BITKRAFT**<br>
 Esports Ventures
 
 **MTGx**\
