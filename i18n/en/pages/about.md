@@ -30,4 +30,92 @@ Koji's apps are modern "Progressive Web Apps" that run on any browser and every 
 
 Just like YouTube started with people posting low quality videos (that later got dramatically better), today, people are creating various trivialities using Koji.  You can see what they are creating here.  We are already seeing these apps get more sophisticated, people learning from each other, a community of developers building, and app template creation accelerating.  Because Koji supports modern day standards (full-stack JavaScript), there are no limitations on the kinds of apps that will be created.
 
-The company has raised $6M to date from a list of prominent investors [GoMeta, Inc.](http://goMeta.io)
+The company has raised $6M to date from a list of prominent investors.
+
+## Our Investors
+
+**BITKRAFT**<br>
+Esports Ventures
+
+**MTGx**<br>
+Modern Times Group
+
+**BITKRAFT**<br>
+Next 10 Ventures
+
+**Exponential Creativity**
+
+**Micahel Eisner**<br>
+Former CEO of Disney
+
+**Taner Halicioglu**<br>
+Employee #1 Facebook
+
+**Lic Le Meur**<br>
+Founder of LeWeb
+
+**Pavni Diwanji**<br>
+VP Engineering Google
+
+**Mike Jones**<br>
+Former CEO of MySpace
+
+**Mark Pincus**<br>
+CEO of Zynga
+
+**Richard Gingras**<br>
+Head of Google News
+
+**Rachel Lam**<br>
+Head of Time Warner Cable Investments
+
+**Kelly Perdew**<br>
+Moonshots Capital
+
+**Gunderson Dettmer**<br>
+Our law firm
+
+**Alex Bard**<br>
+CEO of CampaignMonitor
+
+**Scott Kurnit**<br>
+Founder About.com
+
+**Roderick Chavez**<br>
+Google, Microsoft
+
+**Jordan Greenhall**<br>
+Founder DivX
+
+**Art Bilger**<br>
+CEO Working Nation, Angel in Akamai
+
+**Denise Ho**<br>
+Product Manager Google
+
+**George Huang**<br>
+Sr. Engineer Google
+
+**Don Dodge**<br>
+Developer Advocate Google, Napster
+
+**Michael Carter**<br>
+Inventor of Websockets
+
+**Nate Koechly**<br>
+Director of UX and UX Research YouTube
+
+**Tom Charytoniuk**<br>
+Product Manager Google, Redfin, Freshly
+
+**Josh Elman**<br>
+Former Head of Product at Twitter, LinkedIn
+
+**Eric Torgenberg**<br>
+Product Hunt
+
+**Jonathan Terleski**<br>
+Director of UX YouTube
+
+**Jono Rosen**<br>
+Partner, Applied Invention
