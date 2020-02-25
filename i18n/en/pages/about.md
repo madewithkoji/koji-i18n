@@ -1,9 +1,9 @@
 # About Koji
-Koji is doing to code/apps what YouTube did to video... democratizing it so that millions more people can be creators.  
+Koji is doing to code/apps what YouTube did to video...democratizing it so that millions more people can be creators.  
 
 When YouTube launched (2005) many people wondered if there was any need for a platform that would let amateurs broadcast video.  
 
-They asked questions like : 
+They asked questions like: 
 
 * Why would anyone want to broadcast?  
 * Why would anyone watch videos created by amateurs?  
@@ -11,7 +11,7 @@ They asked questions like :
 
 Looking back on it now it seems silly, but it was hard to answer those questions at the time. 
 
-Today, people may ask the same questions :  
+Today, people may ask the same questions:  
 
 * Why would amateurs want to create apps?
 * Why would anyone want to interact with / use apps created by amateurs?
@@ -19,10 +19,10 @@ Today, people may ask the same questions :
 
 Of course if we look back, we have seen these patterns repeating (and producing Unicorn companies)...
 
-* Democratization of Text --- Blogger / WordPress 
-* Democratization of Photography --- Flickr / Instagram
-* Democratization of Video --- Veoh / YouTube
-* Now it is time for democratization of Code/Apps --- Koji
+* Democratization of Text -- Blogger / WordPress 
+* Democratization of Photography -- Flickr / Instagram
+* Democratization of Video -- Veoh / YouTube
+* Now it is time for democratization of Code/Apps -- Koji
 
 Koji is a multisided marketplace which allows professional developers to create "app templates" that can then be customized by less/non technical people (we call them Makers). Once customized, these new apps can be easily deployed to the Internet.  
 
@@ -34,24 +34,28 @@ The company has raised $6M to date from a list of prominent investors.
 
 ## Our Investors
 
-**BITKRAFT**<br>
-Esports Ventures
+**BITKRAFT Esports Ventures**
 
 **MTGx**<br>
 Modern Times Group
 
-**BITKRAFT**<br>
-Next 10 Ventures
+**Next 10 Ventures**
 
 **Exponential Creativity**
-
-**Micahel Eisner**<br>
-Former CEO of Disney
 
 **Taner Halicioglu**<br>
 Employee #1 Facebook
 
-**Lic Le Meur**<br>
+**Moonshots Capital**<br>
+Kelly Perdew
+
+**Michael Eisner**<br>
+Former CEO of Disney
+
+**Art Bilger**<br>
+CEO Working Nation, Angel in Akamai
+
+**Loic Le Meur**<br>
 Founder of LeWeb
 
 **Pavni Diwanji**<br>
@@ -69,8 +73,11 @@ Head of Google News
 **Rachel Lam**<br>
 Head of Time Warner Cable Investments
 
-**Kelly Perdew**<br>
-Moonshots Capital
+**Josh Elman**<br>
+Former Head of Product at Twitter, LinkedIn
+
+**Eric Torgenberg**<br>
+Product Hunt
 
 **Gunderson Dettmer**<br>
 Our law firm
@@ -85,10 +92,7 @@ Founder About.com
 Google, Microsoft
 
 **Jordan Greenhall**<br>
-Founder DivX
-
-**Art Bilger**<br>
-CEO Working Nation, Angel in Akamai
+Founder, DivX
 
 **Denise Ho**<br>
 Product Manager Google
@@ -107,12 +111,6 @@ Director of UX and UX Research YouTube
 
 **Tom Charytoniuk**<br>
 Product Manager Google, Redfin, Freshly
-
-**Josh Elman**<br>
-Former Head of Product at Twitter, LinkedIn
-
-**Eric Torgenberg**<br>
-Product Hunt
 
 **Jonathan Terleski**<br>
 Director of UX YouTube
