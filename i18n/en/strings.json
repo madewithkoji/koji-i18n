@@ -578,6 +578,7 @@
   "main_nav.templates.template_commissions": "Template commissions",
   "main_nav.extensions": "Extensions",
   "main_nav.extensions.browse_extensions": "Browse extensions",
+  "main_nav.extensions.create_asset_pack": "Create an asset pack",
   "main_nav.extensions.create_extension": "Create an extension",
   "main_nav.extensions.my_extensions": "My extensions",
   "main_nav.extensions.my_monetized_assets": "My monetized assets",
