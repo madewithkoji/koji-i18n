@@ -160,7 +160,7 @@
   "editor.upload_file.warning": "Note: This uploads files directly into your project. If you want users who remix your project to be able to easily modify this file, please configure it to use VCCs instead.",
   "editor.upload_file.choose_file": "Choose a file",
   "editor.upload_file.choose_different_file": "Choose a different file",
-  "editor.upload_file.browse": "Browse your computer...",
+  "editor.upload_file.browse": "Browse...",
   "editor.upload_file.or": "or",
   "editor.upload_file.new_file_path": "New file path (including file name)",
   "editor.upload_file.uploading": "Uploading...",
