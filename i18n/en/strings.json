@@ -590,5 +590,8 @@
   "main_nav.resources.terms_of_use": "Terms of use",
   "main_nav.resources.copyright_policy": "Copyright policy",
   "main_nav.resources.media_kit": "Media kit",
-  "main_nav.resources.status": "Status"
+  "main_nav.resources.status": "Status",
+  "access_tokens.info": "Access tokens are used in place of your password when authenticating with services via the command line, such as when using `git` to access your project from outside of the Koji editor.\n\nYour internal access token is managed automatically by Koji and used when accessing your projects in the Koji editor. If you are concerned that your internal access token has been exposed, you may manually rotate it to generate a new one.",
+  "custom_domains.info": "If you own a domain name, you can use it to host your deployed Koji project in addition to your withkoji.com domain. Register a domain, point a CNAME DNS record to `cnames.withkoji.com`, and we'll take care of hosting, HTTPS (via Let's Encrypt), and all the rest. Registering a new domain name can take up to an hour for everything to get settled, so once you've created your domain and setup the DNS records, we'll email you when it's ready for use.",
+  "keystore.info": "Documentation coming soon!"
 }
