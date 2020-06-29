@@ -527,7 +527,7 @@
   "payments.gift_code_date_redeemed": "Date redeemed",
   "payments.gift_code_not_redeemed": "Not redeemed",
   "payments.purchase_gift_code": "Purchase gift code",
-  "payments.redeem_gift_code": "Redeem gift code",
+  "payments.redeem_gift_code": "Redeem code",
   "payments.code": "Code",
   "payments.redeem": "Redeem",
   "payments.redeeming": "Redeeming",
@@ -593,5 +593,26 @@
   "main_nav.resources.status": "Status",
   "access_tokens.info": "Access tokens are used in place of your password when authenticating with services via the command line, such as when using `git` to access your project from outside of the Koji editor.\n\nYour internal access token is managed automatically by Koji and used when accessing your projects in the Koji editor. If you are concerned that your internal access token has been exposed, you may manually rotate it to generate a new one.",
   "custom_domains.info": "If you own a domain name, you can use it to host your deployed Koji project in addition to your withkoji.com domain. Register a domain, point a CNAME DNS record to `cnames.withkoji.com`, and we'll take care of hosting, HTTPS (via Let's Encrypt), and all the rest. Registering a new domain name can take up to an hour for everything to get settled, so once you've created your domain and setup the DNS records, we'll email you when it's ready for use.",
-  "keystore.info": "Documentation coming soon!"
+  "keystore.info": "Documentation coming soon!",
+
+  "header.create_post": "Create post",
+  "header.profile": "Profile",
+  "header.projects": "Projects",
+  "payments.see_all_transactions": "See all transactions",
+  "main_nav.templates.scaffolds": "Scaffolds",
+
+  "home.header_2": "Remix all kinds of posts and share them to any social network",
+  "home.about_koji": "About Koji",
+  "home.community": "Community",
+  "home.create_a_post": "Create a post",
+  "home.search": "Search",
+
+  "nav.back": "Back",
+
+  "discovery.end_of_results": "End of results",
+  "discovery.see_new_posts": "See new posts",
+  "discovery.see_all": "See all",
+  "discovery.see_more": "See more",
+  "create.header": "Pick a template and remix it to create something new",
+  "create.remix": "Remix"
 }
