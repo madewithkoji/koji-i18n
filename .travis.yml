@@ -10,7 +10,13 @@ branches:
     - master
 
 script:
-  - pwd
+  - node scripts/buildJsonFromCsv.js
+
+after_success:
+  - git config user.email "travis@example.com"
+  - git config user.name "taskrunner"
+  - git add --force dist
+  - git commit -m 'add dist folder to deployment'
 
 deploy:
   provider: s3

@@ -1,0 +1,43 @@
+page.about-koji.label,About this Koji
+page.build-versions.description,Verify deployment and access build logs for any version of your template. A new template version is automatically built and deployed when you publish your project from the Koji editor or push changes to master on your project's remote repository. {{link}}
+page.koji-creator-view.label,Koji Overview
+page.koji-creator-view.description,Monitor how this Koji is performing and keep it up to date. You can review the summary information and access more detailed data and settings. {{link}}
+link.help-link.label,Learn more
+container.analytics-widget.label,Engagement
+container.analytics-widget-koji.description,Usage statistics for this Koji.
+container.ci-status.label,Deployment status
+container.ci-status.description,Status of the most recent build and deployment of this Koji.
+container.git-status.label,Development status
+container.git-status.description,Recent commits to this Koji's source code repository on Git.
+container.live-preview.label,Live preview
+container.transactions-widget-koji.label,Monetization
+container.transactions-widget-koji.description,Purchase and payment statistics for this Koji.
+action.delete-koji.label,Delete Koji
+action.edit-koji.label,Edit Koji
+action.manage-domains.label,Manage Domains
+action.manage-domains.description,Customize the web addresses for this Koji.
+action.manage-koji.label,Manage this Koji
+action.manage-plugins.label,Manage Plugins
+action.manage-plugins.description,"Add dynamic services, like Google Analytics."
+action.open-admin.label,Open in Admin Mode
+action.open-admin.description,Use features in this Koji that only you can see.
+action.open-debugger.label,Open in Debugger
+action.open-debugger.description,
+action.open-editor.label,Open in Code Editor
+action.open-editor.description,Edit this Koji's source code in the web editor.
+action.rename-koji.label,Rename Koji
+action.rename-koji.description,
+action.set-magic-link.label,Set as Magic Link
+action.set-magic-link.description,Point your custom `koji.to` link to this Koji.
+action.share.label,Share
+action.share.description,Post this Koji on your social channels.
+action.view-analytics.label,View Analytics
+action.view-commits.label,View Commits
+action.view-commits.label,Clone
+action.view-database.label,View Database
+action.view-database.description,"View, download, or delete data collected in this Koji's database."
+action.view-koji.label,View Published Koji
+action.view-source.label,View Code
+action.view-source.description,Explore this Koji's source code in read-only mode.
+action.view-transactions.label,View Transactions
+action.view-versions.label,View Version History
