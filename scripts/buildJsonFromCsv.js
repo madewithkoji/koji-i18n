@@ -20,32 +20,36 @@ const path = require('path');
 // Read from the file
 const input = fs.readFileSync(path.join(__dirname, '../src/en.csv'), 'utf-8');
 
-const result = input.trim().split('\n').reduce((acc, cur) => {
-  if (!cur) {
+const result = input
+  .trim()
+  .replace(/\r\n/g, '\n')
+  .split('\n')
+  .reduce((acc, cur) => {
+    if (!cur) {
+      return acc;
+    }
+
+    const [key, rawValue] = cur
+      .replace(',', '||TOKEN||')
+      .split('||TOKEN||');
+
+    // Replace any escaped quotes in the value with single quotes
+    let value = rawValue.split('""').join('"');
+
+    // If the value starts with a quote, remove it
+    if (value.charAt(0) === '"') {
+      value = value.substring(1);
+    }
+
+    // If the string ends with a quote, remove it
+    if (value.charAt(value.length - 1) === '"') {
+      value = value.substring(0, value.length - 1);
+    }
+
+    // Asign to object nad return
+    acc[key] = value;
     return acc;
-  }
-
-  const [key, rawValue] = cur
-    .replace(',', '||TOKEN||')
-    .split('||TOKEN||');
-
-  // Replace any escaped quotes in the value with single quotes
-  let value = rawValue.split('""').join('"');
-
-  // If the value starts with a quote, remove it
-  if (value.charAt(0) === '"') {
-    value = value.substring(1);
-  }
-
-  // If the string ends with a quote, remove it
-  if (value.charAt(value.length - 1) === '"') {
-    value = value.substring(0, value.length - 1);
-  }
-
-  // Asign to object nad return
-  acc[key] = value;
-  return acc;
-}, {});
+  }, {});
 
 // Write to the file
 fs.mkdirSync(path.join(__dirname, '../dist'));
