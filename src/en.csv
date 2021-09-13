@@ -1,48 +1,48 @@
-page.about-koji.label,About this Koji
-page.build-versions.description,Verify deployment and access build logs for any version of your Koji. A new version is automatically built and deployed when you publish your Koji from the web editor or push changes to master on your Koji's remote repository.
-page.koji-creator-view.label,Koji Overview
-page.koji-creator-view.description,Monitor how your Koji is performing and keep it up to date. You can review the summary information and access more detailed data and settings. {{link}}
+page.about-koji.label,About this app
+page.build-versions.description,Verify deployment and access build logs for any version of your app. A new version is automatically built and deployed when you publish your app from the web editor or push changes to master on your app's remote repository.
+page.koji-creator-view.label,App Overview
+page.koji-creator-view.description,Monitor how your app is performing and keep it up to date. You can review the summary information and access more detailed data and settings. {{link}}
 link.help-link.label,Learn more
 container.analytics-widget.label,Engagement
-container.analytics-widget-koji.description,Usage statistics for this Koji.
-container.ci-status.message.unpublished,"This Koji hasn't been deployed yet. To deploy a version, publish the Koji from the web editor or push to master."
+container.analytics-widget-koji.description,Usage statistics for this app.
+container.ci-status.message.unpublished,"This app hasn't been deployed yet. To deploy a version, publish the app from the web editor or push to master."
 container.ci-status.label,Deployment status
-container.ci-status.description,Status of the most recent build and deployment of this Koji.
-container.git-status.message.unpublished,"No commits have been found. To edit this Koji's code, open it the web editor or clone it to work locally."
+container.ci-status.description,Status of the most recent build and deployment of this app.
+container.git-status.message.unpublished,"No commits have been found. To edit this app's code, open it the web editor or clone it to work locally."
 container.git-status.label,Development status
-container.git-status.description,Recent commits to this Koji's source code repository on Git.
+container.git-status.description,Recent commits to this app's source code repository on Git.
 container.live-preview.message.unpublished,{{appName}} isn't published.
 container.live-preview.label,Live preview
 container.transactions-widget-koji.label,Monetization
-container.transactions-widget-koji.description,Purchase and payment statistics for this Koji.
-action.delete-koji.label,Delete Koji
-action.edit-koji.label,Edit Koji
+container.transactions-widget-koji.description,Purchase and payment statistics for this app.
+action.delete-koji.label,Delete App
+action.edit-koji.label,Edit App
 action.manage-domains.label,Manage Domains
-action.manage-domains.description,Customize the web addresses for this Koji.
-action.manage-koji.label,Manage this Koji
+action.manage-domains.description,Customize the web addresses for this app.
+action.manage-koji.label,Manage this App
 action.manage-plugins.label,Manage Plugins
 action.manage-plugins.description,"Add dynamic services, like Google Analytics."
 action.open-admin.label,Open in Admin Mode
-action.open-admin.description,Use features in this Koji that only you can see.
+action.open-admin.description,Use features in this app that only you can see.
 action.open-debugger.label,Open in Debugger
-action.open-debugger.description,Debug this Koji in production or in a development environment.
+action.open-debugger.description,Debug this app in production or in a development environment.
 action.open-editor.label,Open in Code Editor
-action.open-editor.description,Edit this Koji's source code in the web editor.
-action.rename-koji.label,Rename Koji
+action.open-editor.description,Edit this app's source code in the web editor.
+action.rename-koji.label,Rename App
 action.set-magic-link.label,Set as Magic Link
-action.set-magic-link.description,Point your custom `koji.to` link to this Koji.
+action.set-magic-link.description,Point your custom `koji.to` link to this app.
 action.share.label,Share
-action.share.description,Post this Koji on your social channels.
+action.share.description,Post this app on your social channels.
 action.view-analytics.label,View Analytics
 action.view-commits.label,View Commits
 action.clone.label,Clone
 action.view-database.label,View Database
-action.view-database.description,"View, download, or delete data collected in this Koji's database."
-action.view-koji.label,View Published Koji
+action.view-database.description,"View, download, or delete data collected in this app's database."
+action.view-koji.label,View Published App
 action.view-source.label,View Code
-action.view-source.description,Explore this Koji's source code in read-only mode.
+action.view-source.description,Explore this app's source code in read-only mode.
 action.view-transactions.label,View Transactions
 action.view-versions.label,View Version History
 page.build-versions.label,Versions
 page.commits.label,Commits
-page.commits.description,Review the commit history for the master branch of this Koji's source code repository on Git. Each commit corresponds with a build version of the Koji.
+page.commits.description,Review the commit history for the master branch of this app's source code repository on Git. Each commit corresponds with a build version of the app.
